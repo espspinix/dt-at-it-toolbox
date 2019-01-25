@@ -2,7 +2,7 @@
 
 This repository contains my master thesis about how to integrate *Design Thinking* into *agile IT development teams*, with the goal to increase empathy towards the own team and the end user as well as to increase product understanding. The final goal was to create a method toolbox that can be used in day-to-day development.
 
-##The final toolbox consists of twelve methods
+## The final toolbox consists of twelve methods
 - Personal Inventory
 - Character Profiles
 - Customer Journey Map
@@ -15,3 +15,6 @@ This repository contains my master thesis about how to integrate *Design Thinkin
 - Five Finger Feedback
 - Empathy Tools
 - Paper Prototype
+
+## Download
+[DT@IT Toolbox - Master Thesis](./DT@IT Method Toolbox - Master Thesis.pdf)
