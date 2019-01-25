@@ -17,4 +17,4 @@ This repository contains my master thesis about how to integrate *Design Thinkin
 - Paper Prototype
 
 ## Download
-[DT@IT Toolbox - Master Thesis](./DT@IT Method Toolbox - Master Thesis.pdf)
+[DT@IT Toolbox - Master Thesis](DT@IT%20Method%20Toolbox%20-%20Master%20Thesis.pdf)
